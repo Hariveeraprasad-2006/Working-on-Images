@@ -3,7 +3,7 @@
  
 Aim:
  
-To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
+To write a python program using OpenCV to convert image to gray and hsv. display the  H,S,V.
 1. The image should be a plant, Tree, flower or building
 2. The filename should be username.jpg
 3. The image should be Converted to gray scale and HSV 
