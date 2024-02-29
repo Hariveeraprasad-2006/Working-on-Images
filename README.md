@@ -40,3 +40,6 @@ cv2.imshow("S PLANE",s)
 cv2.imshow("V PLANE",v)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+```
+# Result:
+Thus the images are read and color conversion was performed between RGB To GRAY, HSV  color models successfully using the python program.
